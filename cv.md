@@ -26,7 +26,7 @@ graduation year - **2014**
 
 **RS School**
 
-*JS / FRONT-END. STAGE 0
+* JS / FRONT-END. STAGE 0
 
 **Streamline language school** 
 * English language
