@@ -1,1 +1,1 @@
-# rsschool-cv
+https://evg-r.github.io/rsschool-cv/
